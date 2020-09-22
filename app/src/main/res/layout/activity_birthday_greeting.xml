@@ -21,7 +21,7 @@
         android:fontFamily="@font/alike_angular"
         android:text="@string/birthday_greeting"
         android:textColor="@color/colorPrimary"
-        android:textSize="35dp"
+        android:textSize="40dp"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
